@@ -196,8 +196,6 @@ sns.heatmap(corr, annot=True, cmap="plasma", linewidths=0.5)
 ```
 ![image](https://github.com/user-attachments/assets/dc37ced0-5c02-4971-adc5-54afa7825c01)
 
-
-
 # Result:
 
 Thus, all the data visualization techniques of seaborn has been implemented.
